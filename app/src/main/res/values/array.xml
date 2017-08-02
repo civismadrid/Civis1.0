@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="category_array">
+        <item>Limpieza y basuras</item>
+        <item>Calzadas y aceras</item>
+        <item>Alumbrado</item>
+        <item>Mobiliario urbano</item>
+    </string-array>
+</resources>

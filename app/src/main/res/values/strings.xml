@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CIVIS(0.1)</string>
+    <string name="seleccione_categor_a">Seleccione categoría</string>
+    <string name="seleccion_categor_a">Seleccione Categoría</string>
+    <string name="introduzca_id">Introduzca su ID</string>
+    <string name="introduzca_el_titulo">Introduzca el titulo</string>
+
+</resources>
